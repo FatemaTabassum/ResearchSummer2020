@@ -1,5 +1,5 @@
-1. All unnecessary features are deleted using using this file
+1. Feature-Engineering: All unnecessary features are deleted and saved to another files.
 
-2. Data is preprocessed, reshaped and then saved in npy format in this files
+2. Data_Preprocess: Load the featured-engineered Data. Later data is preprocessed, reshaped and then saved in npy format.
 
-3. Load the npy files and feed into rnn/lstm etc.
+3. RNN_Implement: Load the npy files and feed into RNN/LSTM etc.
